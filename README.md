@@ -333,11 +333,10 @@ scikit-learn、seaborn、matplotlib - 提供数据分析和可视化工具
 联系信息
 如有问题或建议，请通过以下方式联系：
 
-邮箱：[your-email@example.com]
+邮箱：1359490902@QQ.com
 
-GitHub Issues：[项目Issues页面]
 
-项目主页：[项目GitHub页面]
+项目主页：https://github.com/lilili123-dasds/Stl-10/tree/main
 
 温馨提示：
 运行本项目前，请确保有足够的存储空间（约10GB用于数据集和模型保存）和计算资源（推荐使用GPU）。完整训练过程可能需要数小时，具体时间取决于硬件配置。祝您实验顺利！
